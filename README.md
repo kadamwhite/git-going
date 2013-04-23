@@ -2,7 +2,7 @@
 
 Originally delivered on [April 22, 2013](http://meetup.bostonwp.org/events/101692882/) at the [Boston WordPress Meetup Group](http://meetup.bostonwp.org)
 
-[View the presentation](https://kadamwhite.github.io/git-going)
+[View the presentation](http://kadamwhite.github.io/git-going/)
 
 ## Talk Overview
 

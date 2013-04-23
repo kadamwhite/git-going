@@ -701,14 +701,7 @@ And tons, tons more on WP Tuts+, WordCamp.tv, and myriad blogs across the vastne
 
 K.Adam White &bull; [@kadamwhite](https://twitter.com/kadamwhite)
 
-Slides: [https://kadamwhite.github.io/git-going](https://kadamwhite.github.io/git-going)
-
-
-# Thank You
-
-K.Adam White &bull; [@kadamwhite](https://twitter.com/kadamwhite)
-
-Slides: [https://kadamwhite.github.io/git-going](https://kadamwhite.github.io/git-going)
+Slides: [http://kadamwhite.github.io/git-going/](http://kadamwhite.github.io/git-going/)
 
 &nbsp;
 
