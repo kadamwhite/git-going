@@ -221,6 +221,7 @@ Rebasing can help keep your in-progress changes separate from the work you're pu
 
 You can also "squash" commits together to make a cleaner history before you push a change
 
+
 ## Rebasing
 
 When taken to the extreme rebasing can make it *harder* to know what you changed, so use with caution:
