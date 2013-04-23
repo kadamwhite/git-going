@@ -100,7 +100,7 @@ Bitkeeper, Mercurial, Git
     $ git add .
 
 
-## Commit Yur Changes
+## Commit Your Changes
 
     $ git commit -m "Initial Commit"
 
